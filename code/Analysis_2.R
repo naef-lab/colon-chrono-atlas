@@ -227,7 +227,7 @@ if (is.na(base_dir)) {
   base_dir <- if (requireNamespace("here", quietly = TRUE)) here::here() else getwd()
 }
 out_dir  <- file.path(base_dir, "data")
-plot_dir <- file.path(base_dir, "plot", "ctrl")
+plot_dir <- file.path(base_dir, "plot")
 dir.create(plot_dir, recursive = TRUE, showWarnings = FALSE)
 
 data <- readRDS(file.path(out_dir, "data_integrated_celltype_cellbender_df.rds"))

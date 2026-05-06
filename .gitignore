@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+data/raw_h5/
+data/cellbender/
+data/raw_h5.tar.gz
+data/cellbender_h5.tar.gz
+data/zenodo-upload/
+plot/

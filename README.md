@@ -9,7 +9,7 @@ This repository contains the analysis code for the single-cell RNA-seq chrono-at
 | Resource | Accession / DOI | Description |
 |----------|----------------|-------------|
 | ENA | [PRJEB102541](https://www.ebi.ac.uk/ena/browser/view/PRJEB102541) | Raw sequencing reads (FASTQ) |
-| Zenodo | [DOI: XXXX](https://doi.org/XXXX) | Cell Ranger raw `.h5`, CellBender-corrected `.h5`, final annotated `.rds` |
+| Zenodo | [10.5281/zenodo.20048987](https://doi.org/10.5281/zenodo.20048987) | Cell Ranger raw `.h5`, CellBender-corrected `.h5`, final annotated `.rds` |
 
 ## Repository structure
 
@@ -66,7 +66,7 @@ There are three entry points depending on how much you want to recompute. Pick o
    ```r
    source("code/Analysis_2.R")
    ```
-   Produces `data/Table_S1.xlsx` (rhythmic gene table) and figures in `plot/ctrl/`.
+   Produces `data/Table_S1.xlsx` (rhythmic gene table) and figures in `plot/`.
 
 ## Software requirements
 

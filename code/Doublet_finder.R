@@ -13,7 +13,7 @@ if (is.na(base_dir)) {
   base_dir <- if (requireNamespace("here", quietly = TRUE)) here::here() else getwd()
 }
 out_dir  <- file.path(base_dir, "data")
-plot_dir <- file.path(base_dir, "plot", "ctrl")
+plot_dir <- file.path(base_dir, "plot")
 cb_dir   <- file.path(base_dir, "data", "cellbender")
 dir.create(plot_dir, recursive = TRUE, showWarnings = FALSE)
 
