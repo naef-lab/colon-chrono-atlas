@@ -1,10 +1,8 @@
 # Chrono-atlas of cell-type specific daily gene expression rhythms in the undamaged and regenerating mouse colon
 
-<p align="center">
-  <img src="logo.png" alt="Chrono-atlas logo" width="300">
-</p>
-
 ## Overview
+
+<img src="logo.png" alt="Chrono-atlas logo" width="160" align="right">
 
 This repository contains the analysis code accompanying the manuscript
 *Chrono-atlas of cell-type specific daily gene expression rhythms in the regenerating colon* (Carmona-Alcocer, Gobet et al.), bioRxiv [10.1101/2025.11.20.689502](https://doi.org/10.1101/2025.11.20.689502).
