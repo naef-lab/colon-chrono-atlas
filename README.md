@@ -1,5 +1,9 @@
 # Chrono-atlas of cell-type specific daily gene expression rhythms in the undamaged and regenerating mouse colon
 
+<p align="center">
+  <img src="logo.png" alt="Chrono-atlas logo" width="300">
+</p>
+
 ## Overview
 
 This repository contains the analysis code accompanying the manuscript
