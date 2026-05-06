@@ -2,7 +2,10 @@
 
 ## Overview
 
-This repository contains the analysis code for the single-cell RNA-seq chrono-atlas of the mouse colon, covering undamaged and DSS-induced regenerating conditions. The study profiled 24-hour gene expression rhythms across >20 cell types in the proximal and distal colon.
+This repository contains the analysis code accompanying the manuscript
+*Chrono-atlas of cell-type specific daily gene expression rhythms in the regenerating colon* (Carmona-Alcocer, Gobet et al.).
+
+The study uses single-cell RNA-seq to profile 24-hour gene expression rhythms across >20 cell types of the mouse colon in undamaged and DSS-induced regenerating conditions, in the proximal and distal regions.
 
 ## Data availability
 
