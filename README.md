@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains the analysis code accompanying the manuscript
-*Chrono-atlas of cell-type specific daily gene expression rhythms in the regenerating colon* (Carmona-Alcocer, Gobet et al.).
+*Chrono-atlas of cell-type specific daily gene expression rhythms in the regenerating colon* (Carmona-Alcocer, Gobet et al.), bioRxiv [10.1101/2025.11.20.689502](https://doi.org/10.1101/2025.11.20.689502).
 
 The study uses single-cell RNA-seq to profile 24-hour gene expression rhythms across >20 cell types of the mouse colon in undamaged and DSS-induced regenerating conditions, in the proximal and distal regions.
 
